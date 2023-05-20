@@ -1,0 +1,17 @@
+{
+  "name": "happybearserver",
+  "version": "1.0.0",
+  "description": "HappyBear App Local Server",
+  "main": "http.js",
+  "scripts": {
+    "start": "node http.js"
+  },
+  "author": "boqodo",
+  "license": "ISC",
+  "engines": {
+    "node": ">=18"
+  },
+  "dependencies": {
+    "msedge-tts": "^1.1.4"
+  }
+}
