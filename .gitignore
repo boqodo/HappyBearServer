@@ -280,3 +280,4 @@ Temporary Items
 *.webm
 node_modules
 demo
+.idea
